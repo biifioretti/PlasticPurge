@@ -84,6 +84,7 @@ Link para mais informações: https://www.fiap.com.br/graduacao/global-solution/
 
 **Arquivos do Projeto:**
 -Microplastic.ipynb
+
 Código desenvolvido para a matéria Inteligência Artificial e Computacional ministrada pelo professor André Tritiack.
 
 O grupo deve escolher um conjunto de dados abrangente contendo dados tabulares relevantes à poluição plástica. A avaliação dos modelos deve se basear nas principais métricas relacionadas à técnica de Machine Learning escolhida (Classificação ou Regressão).
